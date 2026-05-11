@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+backend/venv/
+.venv/
+env/
+venv/
+
+# Next.js
+.next/
+out/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.toast
+.lucid
+.cache
+.pytest_cache/
+.coverage
+.nox/
+.hypothesis/
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Misc
+.idea/
+.vscode/
+*.swp
+*.swo
