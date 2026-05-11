@@ -1,4 +1,4 @@
-# ResumeIQ 🚀
+# ResumeIQ
 
 > **AI-Powered ATS Resume Analyzer** — fully local, privacy-focused, and tailored for modern recruitment.
 
@@ -102,6 +102,5 @@ ResumeIQ is designed with privacy as its core principle. Unlike other AI resume 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
+## creator: Sriram Sowmithri
 
-## 📜 License
-MIT License - Created with ❤️ for job seekers.
